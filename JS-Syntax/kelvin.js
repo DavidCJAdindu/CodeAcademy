@@ -61,6 +61,6 @@ Use console.log and string interpolation to log the temperature in newton to the
 
 const newton = Math.floor(celsius * (33/100));
 
-console.log(`The temperature is ${newton} degrees Newton.`)
+console.log(`The temperature is ${newton} degrees Newton.`);
 
 
