@@ -21,3 +21,24 @@ Here’s how our registration works. There are adult runners (over 18 years of a
 But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project.
 
 */
+
+let raceNumber = Math.floor(Math.random() * 1000);
+
+let registeredEarly = true; 
+let age = 72;
+
+
+if (registeredEarly === true && age > 18) {
+  raceNumber += 1000;
+} 
+
+
+if (registeredEarly === true && age > 18) {
+  console.log("Your race will begin at 9:30 am. Your race number is " + raceNumber );
+} else if (registeredEarly === false && age > 18) {
+  console.log("Your race will begin at 11:00 am. Your race number is " + raceNumber );
+} else if (age < 18) {
+  console.log("Your race will begin at 12:30 am. Your race number is " + raceNumber );
+} else {
+  console.log("See the registration desk!");
+}
