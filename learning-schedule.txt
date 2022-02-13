@@ -1,0 +1,81 @@
+Code Academy Full-Stack Engineer, Career Path ~ Learning Schedule 
+
+** SEMESTER 1 **
+> 14th Feb - 20th Feb: 
+	1. Welcome to the Full-Stack Engineer Path ✅ 
+	2. Overview of Web Development
+	3. Fundamentals of HTML
+	4. Fundamentals of CSS
+	5. Developing Websites Locally
+	6. Deploying Websites
+	7. Improved Styling with CSS
+	8. Making a Website Responsive
+	9. JavaScript Syntax, Part I
+	10. JavaScript Syntax, Part II
+	11. Git and GitHub, Part I
+	12. Portfolio Project: JavaScript Syntax
+	13. Building Interactive Websites
+	14. Portfolio Project: Personal Portfolio Website
+
+> 21th Feb - 27th Feb: 
+	15. JavaScript Syntax, Part III
+	16. JavaScript Testing
+	17. Async JavaScript and HTTP Requests
+
+> 28th Feb - 6th Mar:
+	18. Web Apps 
+	19. React, Part I
+	20. React, Part II
+	21. Redux
+	22. Git and GitHub, Part II
+	23. Portfolio Project: Reddit Client
+
+
+
+** SEMESTER 2 **
+> 7th Mar - 13th Mar:
+	24. Introduction to Back-End
+	25. Build a Back-end with Express.js
+	26. Back-End and Feature Testing
+	27. Database Basics
+	28. Working with Databases
+	29. Designing Relational Databases 
+	30. Advanced PostgreSQL
+	31. Adding a PostgreSQL Database
+
+> 14th Mar - 20th Mar:
+	32. API Development with Swagger and OpenAPI
+	33. Portfolio Project: E-Commerce App (REST API)
+	34. Connecting Front-End to Back-End
+	35. Deploying Web Applications
+
+> 21st Mar - 27th Mar:
+	36. Web Security Fundamentals
+	37. User Authentication & Authorization
+	38. Data Security
+	39. Common Attacks on Web Applications
+
+> 28th Mar - 3rd Apr:
+	40. Fundamentals of Operating Systems
+	41. DevOps Fundamentals
+	42. Portfolio Project: E-Commerce App (Client)
+
+
+** SEMESTER 3 **
+> 4th Apr - 10th Apr: 
+	43. What To Expect in a Technical Interview
+	44. Linear Data Structures
+	45. Complex Data Structures
+
+> 11th Apr - 17th Apr:
+	46. Algorithms
+	47. Search & Graph Search Algorithms
+
+> 18th Apr - 24th Apr:
+	48. Interview Skills
+
+> 25th Apr - 1st May:
+	49. Portfolio Project: Open-Ended PERN App
+
+> 2nd May - 8th May: 
+	50. Next Steps in Your Full-Stack Engineer Journey
