@@ -3,14 +3,14 @@ Code Academy Full-Stack Engineer, Career Path ~ Learning Schedule
 ** SEMESTER 1 **
 > 14th Feb - 20th Feb: 
 	1. Welcome to the Full-Stack Engineer Path ✅ 
-	2. Overview of Web Development
+	2. Overview of Web Development ✅ 
 	3. Fundamentals of HTML
 	4. Fundamentals of CSS
 	5. Developing Websites Locally
 	6. Deploying Websites
 	7. Improved Styling with CSS
 	8. Making a Website Responsive
-	9. JavaScript Syntax, Part I
+	9. JavaScript Syntax, Part I ✅ 
 	10. JavaScript Syntax, Part II
 	
 	11. Git and GitHub, Part I
