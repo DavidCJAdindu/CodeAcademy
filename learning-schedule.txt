@@ -8,12 +8,12 @@ Code Academy Full-Stack Engineer, Career Path ~ Learning Schedule
 	4. Fundamentals of CSS ✅
 	5. Developing Websites Locally ✅
 	6. Deploying Websites ✅
-	7. Improved Styling with CSS
+	7. Improved Styling with CSS ✅
 	8. Making a Website Responsive
 	9. JavaScript Syntax, Part I ✅ 
 	10. JavaScript Syntax, Part II ✅
 	
-	11. Git and GitHub, Part I
+	11. Git and GitHub, Part I ✅
 	12. Portfolio Project: JavaScript Syntax
 	13. Building Interactive Websites & Making A Website Accessible
 	14. Portfolio Project: Personal Portfolio Website
