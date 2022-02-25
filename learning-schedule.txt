@@ -14,9 +14,9 @@ Code Academy Full-Stack Engineer, Career Path ~ Learning Schedule
 	10. JavaScript Syntax, Part II ✅
 	
 	11. Git and GitHub, Part I ✅
-	12. Portfolio Project: JavaScript Syntax
-	13. Building Interactive Websites & Making A Website Accessible
-	14. Portfolio Project: Personal Portfolio Website
+	12. Portfolio Project: JavaScript Syntax ✅
+	13. Building Interactive Websites & Making A Website Accessible ✅
+	14. Portfolio Project: Personal Portfolio Website ✅
 
 > 21th Feb - 27th Feb: 
 	15. JavaScript Syntax, Part III
