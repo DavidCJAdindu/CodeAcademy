@@ -19,9 +19,9 @@ Code Academy Full-Stack Engineer, Career Path ~ Learning Schedule
 	14. Portfolio Project: Personal Portfolio Website ✅
 
 > 21th Feb - 27th Feb: 
-	15. JavaScript Syntax, Part III
-	16. JavaScript Testing
-	17. Async JavaScript and HTTP Requests
+	15. JavaScript Syntax, Part III ✅
+	16. JavaScript Testing ✅
+	17. Async JavaScript and HTTP Requests ✅
 
 > 28th Feb - 6th Mar:
 	18. Web Apps 
